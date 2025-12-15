@@ -1,0 +1,28 @@
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Файлы IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Папка сборки
+target/
+build/
+out/
+bin/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.tmp
+*.temp
